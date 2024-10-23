@@ -5,6 +5,7 @@ This repository contains the storyboard for the GG Grad Ed Video Project. The vi
 ## Project Structure
 The folder structure of the project is as follows
 
+```
 GG-Grad-Ed-Video-Project/
 ├── README.md
 ├── audio/
@@ -13,7 +14,8 @@ GG-Grad-Ed-Video-Project/
 ├── script/
 └── submissions/
     ├── drafts/
-    └── final/
+    └── final/ 
+```
 
 
 
