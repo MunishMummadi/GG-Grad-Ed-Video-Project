@@ -10,7 +10,7 @@ GG-Grad-Ed-Video-Project/
 ├── metadata/
 ├── pictures/
 ├── script/
-└── sumissions/
+└── submissions/
     ├── drafts/
     └── final/
 
